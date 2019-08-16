@@ -1,0 +1,12 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+div.mainBox{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to top, rgb(0, 250, 0), rgb(250, 250, 0))
+}
